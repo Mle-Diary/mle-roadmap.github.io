@@ -180,6 +180,19 @@ ML System Design, архитектура, масштабирование
 
 # Книги
 [список электроных книг](books.md)
+### Темы:
+
+[Код и алгоритмы](https://mle-diary.github.io/Mle-Roadmap/books.html#%D0%BA%D0%BE%D0%B4-%D0%B8-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B)
+
+[MLE](https://mle-diary.github.io/Mle-Roadmap/books.html#mle)
+
+[Классический ML](https://mle-diary.github.io/Mle-Roadmap/books.html#%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-ml)
+
+[Deep Learning](https://mle-diary.github.io/Mle-Roadmap/books.html#dl)
+
+[Рекомендательные системы](https://mle-diary.github.io/Mle-Roadmap/books.html#%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)
+
+
 
 # Рекомендованные курсы
 ### DS:
