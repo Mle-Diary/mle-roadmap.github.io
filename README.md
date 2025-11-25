@@ -178,6 +178,9 @@ ML System Design, архитектура, масштабирование
 - KServe, Seldon  
 - Prometheus, Grafana  
 
+# Книги
+[список электроных книг](/books/)
+
 # Рекомендованные курсы
 ### DS:
 1. [Открытый курс по машинному обучению, автор Юрий Кашницкий](https://ods.ai/tracks/open-ml-course/about)
