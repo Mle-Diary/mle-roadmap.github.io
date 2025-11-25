@@ -4,3 +4,15 @@
 
 # Книги 
 1. 
+
+
+## python
+
+
+## DS
+
+### Рекомендательные системы
+
+
+[![Recommender Systems Handbook, Francesco Ricci · Lior Rokach · Bracha Shapira, B. Kantor](image.png)](https://drive.google.com/file/d/1LNT5JWjlJWROKsN8O6L6RiOe8KyYakTR/view?usp=sharing) 
+[[Recommender Systems Handbook, Francesco Ricci · Lior Rokach · Bracha Shapira, B. Kantor](image.png)](https://drive.google.com/file/d/1LNT5JWjlJWROKsN8O6L6RiOe8KyYakTR/view?usp=sharing) 
