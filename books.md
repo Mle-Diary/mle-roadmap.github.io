@@ -3,28 +3,29 @@
 
 
 # Книги 
-1. 
-
 
 ## python
-<div class="image-row">
-  <div class="image-item">
+<table align="center" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+  <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1DiCdEa6WdDpaDlDJtPxA-c86FzxQNSIc/view?usp=sharing">
       <img src="image-1.png" alt="Data Science from Scratch" width="250">
     </a>
     <p>Data Science from Scratch</p>
-  </div>
-  <div class="image-item">
+  </td>
+  <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
     <a href="https://drive.google.com/file/d/1CcKwUG8shchXGwOLNlvPKW0utxDyXWyK/view?usp=sharing">
       <img src="image-2.png" alt="Handbook" width="250">
     </a>
     <p>Handbook</p>
-  </div>
-  <div class="image-item">
-    <img src="image3.jpg" alt="Описание 3" width="250">
+  </td>
+  <td style="border: none; text-align: center; padding: 20px; vertical-align: top;">
+    <a href="https://drive.google.com/file/d/1gWIgpTnwxnPsxy1W_hSwwUjT0-omrneJ/view?usp=sharing">
+    <img src="image-3.png" alt="Читсый код" width="250">
     <p>Подпись 3</p>
-  </div>
-</div>
+  </td>
+</tr>
+</table>
 
 ## DS
 
